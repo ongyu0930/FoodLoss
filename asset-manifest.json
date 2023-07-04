@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/FoodLoss/static/css/main.20976b9d.css",
+    "main.js": "/FoodLoss/static/js/main.b5f2d67c.js",
+    "static/js/787.e6f375df.chunk.js": "/FoodLoss/static/js/787.e6f375df.chunk.js",
+    "static/media/bread.jpeg": "/FoodLoss/static/media/bread.661876d41efaa043a6c6.jpeg",
+    "index.html": "/FoodLoss/index.html",
+    "main.20976b9d.css.map": "/FoodLoss/static/css/main.20976b9d.css.map",
+    "main.b5f2d67c.js.map": "/FoodLoss/static/js/main.b5f2d67c.js.map",
+    "787.e6f375df.chunk.js.map": "/FoodLoss/static/js/787.e6f375df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20976b9d.css",
+    "static/js/main.b5f2d67c.js"
+  ]
+}
